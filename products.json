@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "title": "Product 1",
+    "price": 49.99,
+    "category": "Category 1",
+    "image": "https://picsum.photos/id/10/600/400",
+    "description": "This is a colorful demo description for Product 1. Great quality and value!"
+  },
+  {
+    "id": 2,
+    "title": "Product 2",
+    "price": 62.49,
+    "category": "Category 2",
+    "image": "https://picsum.photos/id/11/600/400",
+    "description": "This is a colorful demo description for Product 2. Great quality and value!"
+  },
+  {
+    "id": 3,
+    "title": "Product 3",
+    "price": 74.99,
+    "category": "Category 3",
+    "image": "https://picsum.photos/id/12/600/400",
+    "description": "This is a colorful demo description for Product 3. Great quality and value!"
+  },
+  {
+    "id": 4,
+    "title": "Product 4",
+    "price": 87.49,
+    "category": "Category 4",
+    "image": "https://picsum.photos/id/13/600/400",
+    "description": "This is a colorful demo description for Product 4. Great quality and value!"
+  },
+  {
+    "id": 5,
+    "title": "Product 5",
+    "price": 99.99,
+    "category": "Category 5",
+    "image": "https://picsum.photos/id/14/600/400",
+    "description": "This is a colorful demo description for Product 5. Great quality and value!"
+  },
+  {
+    "id": 6,
+    "title": "Product 6",
+    "price": 112.49,
+    "category": "Category 1",
+    "image": "https://picsum.photos/id/15/600/400",
+    "description": "This is a colorful demo description for Product 6. Great quality and value!"
+  },
+  {
+    "id": 7,
+    "title": "Product 7",
+    "price": 124.99,
+    "category": "Category 2",
+    "image": "https://picsum.photos/id/16/600/400",
+    "description": "This is a colorful demo description for Product 7. Great quality and value!"
+  },
+  {
+    "id": 8,
+    "title": "Product 8",
+    "price": 137.49,
+    "category": "Category 3",
+    "image": "https://picsum.photos/id/17/600/400",
+    "description": "This is a colorful demo description for Product 8. Great quality and value!"
+  },
+  {
+    "id": 9,
+    "title": "Product 9",
+    "price": 149.99,
+    "category": "Category 4",
+    "image": "https://picsum.photos/id/18/600/400",
+    "description": "This is a colorful demo description for Product 9. Great quality and value!"
+  },
+  {
+    "id": 10,
+    "title": "Product 10",
+    "price": 162.49,
+    "category": "Category 5",
+    "image": "https://picsum.photos/id/19/600/400",
+    "description": "This is a colorful demo description for Product 10. Great quality and value!"
+  },
+  {
+    "id": 11,
+    "title": "Product 11",
+    "price": 49.99,
+    "category": "Category 1",
+    "image": "https://picsum.photos/id/20/600/400",
+    "description": "This is a colorful demo description for Product 11. Great quality and value!"
+  },
+  {
+    "id": 12,
+    "title": "Product 12",
+    "price": 62.49,
+    "category": "Category 2",
+    "image": "https://picsum.photos/id/21/600/400",
+    "description": "This is a colorful demo description for Product 12. Great quality and value!"
+  },
+  {
+    "id": 13,
+    "title": "Product 13",
+    "price": 74.99,
+    "category": "Category 3",
+    "image": "https://picsum.photos/id/22/600/400",
+    "description": "This is a colorful demo description for Product 13. Great quality and value!"
+  },
+  {
+    "id": 14,
+    "title": "Product 14",
+    "price": 87.49,
+    "category": "Category 4",
+    "image": "https://picsum.photos/id/23/600/400",
+    "description": "This is a colorful demo description for Product 14. Great quality and value!"
+  },
+  {
+    "id": 15,
+    "title": "Product 15",
+    "price": 99.99,
+    "category": "Category 5",
+    "image": "https://picsum.photos/id/24/600/400",
+    "description": "This is a colorful demo description for Product 15. Great quality and value!"
+  },
+  {
+    "id": 16,
+    "title": "Product 16",
+    "price": 112.49,
+    "category": "Category 1",
+    "image": "https://picsum.photos/id/25/600/400",
+    "description": "This is a colorful demo description for Product 16. Great quality and value!"
+  },
+  {
+    "id": 17,
+    "title": "Product 17",
+    "price": 124.99,
+    "category": "Category 2",
+    "image": "https://picsum.photos/id/26/600/400",
+    "description": "This is a colorful demo description for Product 17. Great quality and value!"
+  },
+  {
+    "id": 18,
+    "title": "Product 18",
+    "price": 137.49,
+    "category": "Category 3",
+    "image": "https://picsum.photos/id/27/600/400",
+    "description": "This is a colorful demo description for Product 18. Great quality and value!"
+  },
+  {
+    "id": 19,
+    "title": "Product 19",
+    "price": 149.99,
+    "category": "Category 4",
+    "image": "https://picsum.photos/id/28/600/400",
+    "description": "This is a colorful demo description for Product 19. Great quality and value!"
+  },
+  {
+    "id": 20,
+    "title": "Product 20",
+    "price": 162.49,
+    "category": "Category 5",
+    "image": "https://picsum.photos/id/29/600/400",
+    "description": "This is a colorful demo description for Product 20. Great quality and value!"
+  },
+  {
+    "id": 21,
+    "title": "Product 21",
+    "price": 49.99,
+    "category": "Category 1",
+    "image": "https://picsum.photos/id/30/600/400",
+    "description": "This is a colorful demo description for Product 21. Great quality and value!"
+  },
+  {
+    "id": 22,
+    "title": "Product 22",
+    "price": 62.49,
+    "category": "Category 2",
+    "image": "https://picsum.photos/id/31/600/400",
+    "description": "This is a colorful demo description for Product 22. Great quality and value!"
+  },
+  {
+    "id": 23,
+    "title": "Product 23",
+    "price": 74.99,
+    "category": "Category 3",
+    "image": "https://picsum.photos/id/32/600/400",
+    "description": "This is a colorful demo description for Product 23. Great quality and value!"
+  },
+  {
+    "id": 24,
+    "title": "Product 24",
+    "price": 87.49,
+    "category": "Category 4",
+    "image": "https://picsum.photos/id/33/600/400",
+    "description": "This is a colorful demo description for Product 24. Great quality and value!"
+  },
+  {
+    "id": 25,
+    "title": "Product 25",
+    "price": 99.99,
+    "category": "Category 5",
+    "image": "https://picsum.photos/id/34/600/400",
+    "description": "This is a colorful demo description for Product 25. Great quality and value!"
+  },
+  {
+    "id": 26,
+    "title": "Product 26",
+    "price": 112.49,
+    "category": "Category 1",
+    "image": "https://picsum.photos/id/35/600/400",
+    "description": "This is a colorful demo description for Product 26. Great quality and value!"
+  },
+  {
+    "id": 27,
+    "title": "Product 27",
+    "price": 124.99,
+    "category": "Category 2",
+    "image": "https://picsum.photos/id/36/600/400",
+    "description": "This is a colorful demo description for Product 27. Great quality and value!"
+  },
+  {
+    "id": 28,
+    "title": "Product 28",
+    "price": 137.49,
+    "category": "Category 3",
+    "image": "https://picsum.photos/id/37/600/400",
+    "description": "This is a colorful demo description for Product 28. Great quality and value!"
+  },
+  {
+    "id": 29,
+    "title": "Product 29",
+    "price": 149.99,
+    "category": "Category 4",
+    "image": "https://picsum.photos/id/38/600/400",
+    "description": "This is a colorful demo description for Product 29. Great quality and value!"
+  },
+  {
+    "id": 30,
+    "title": "Product 30",
+    "price": 162.49,
+    "category": "Category 5",
+    "image": "https://picsum.photos/id/39/600/400",
+    "description": "This is a colorful demo description for Product 30. Great quality and value!"
+  },
+  {
+    "id": 31,
+    "title": "Product 31",
+    "price": 49.99,
+    "category": "Category 1",
+    "image": "https://picsum.photos/id/40/600/400",
+    "description": "This is a colorful demo description for Product 31. Great quality and value!"
+  },
+  {
+    "id": 32,
+    "title": "Product 32",
+    "price": 62.49,
+    "category": "Category 2",
+    "image": "https://picsum.photos/id/41/600/400",
+    "description": "This is a colorful demo description for Product 32. Great quality and value!"
+  },
+  {
+    "id": 33,
+    "title": "Product 33",
+    "price": 74.99,
+    "category": "Category 3",
+    "image": "https://picsum.photos/id/42/600/400",
+    "description": "This is a colorful demo description for Product 33. Great quality and value!"
+  },
+  {
+    "id": 34,
+    "title": "Product 34",
+    "price": 87.49,
+    "category": "Category 4",
+    "image": "https://picsum.photos/id/43/600/400",
+    "description": "This is a colorful demo description for Product 34. Great quality and value!"
+  },
+  {
+    "id": 35,
+    "title": "Product 35",
+    "price": 99.99,
+    "category": "Category 5",
+    "image": "https://picsum.photos/id/44/600/400",
+    "description": "This is a colorful demo description for Product 35. Great quality and value!"
+  },
+  {
+    "id": 36,
+    "title": "Product 36",
+    "price": 112.49,
+    "category": "Category 1",
+    "image": "https://picsum.photos/id/45/600/400",
+    "description": "This is a colorful demo description for Product 36. Great quality and value!"
+  },
+  {
+    "id": 37,
+    "title": "Product 37",
+    "price": 124.99,
+    "category": "Category 2",
+    "image": "https://picsum.photos/id/46/600/400",
+    "description": "This is a colorful demo description for Product 37. Great quality and value!"
+  },
+  {
+    "id": 38,
+    "title": "Product 38",
+    "price": 137.49,
+    "category": "Category 3",
+    "image": "https://picsum.photos/id/47/600/400",
+    "description": "This is a colorful demo description for Product 38. Great quality and value!"
+  },
+  {
+    "id": 39,
+    "title": "Product 39",
+    "price": 149.99,
+    "category": "Category 4",
+    "image": "https://picsum.photos/id/48/600/400",
+    "description": "This is a colorful demo description for Product 39. Great quality and value!"
+  },
+  {
+    "id": 40,
+    "title": "Product 40",
+    "price": 162.49,
+    "category": "Category 5",
+    "image": "https://picsum.photos/id/49/600/400",
+    "description": "This is a colorful demo description for Product 40. Great quality and value!"
+  },
+  {
+    "id": 41,
+    "title": "Product 41",
+    "price": 49.99,
+    "category": "Category 1",
+    "image": "https://picsum.photos/id/50/600/400",
+    "description": "This is a colorful demo description for Product 41. Great quality and value!"
+  },
+  {
+    "id": 42,
+    "title": "Product 42",
+    "price": 62.49,
+    "category": "Category 2",
+    "image": "https://picsum.photos/id/51/600/400",
+    "description": "This is a colorful demo description for Product 42. Great quality and value!"
+  },
+  {
+    "id": 43,
+    "title": "Product 43",
+    "price": 74.99,
+    "category": "Category 3",
+    "image": "https://picsum.photos/id/52/600/400",
+    "description": "This is a colorful demo description for Product 43. Great quality and value!"
+  },
+  {
+    "id": 44,
+    "title": "Product 44",
+    "price": 87.49,
+    "category": "Category 4",
+    "image": "https://picsum.photos/id/53/600/400",
+    "description": "This is a colorful demo description for Product 44. Great quality and value!"
+  },
+  {
+    "id": 45,
+    "title": "Product 45",
+    "price": 99.99,
+    "category": "Category 5",
+    "image": "https://picsum.photos/id/54/600/400",
+    "description": "This is a colorful demo description for Product 45. Great quality and value!"
+  },
+  {
+    "id": 46,
+    "title": "Product 46",
+    "price": 112.49,
+    "category": "Category 1",
+    "image": "https://picsum.photos/id/55/600/400",
+    "description": "This is a colorful demo description for Product 46. Great quality and value!"
+  },
+  {
+    "id": 47,
+    "title": "Product 47",
+    "price": 124.99,
+    "category": "Category 2",
+    "image": "https://picsum.photos/id/56/600/400",
+    "description": "This is a colorful demo description for Product 47. Great quality and value!"
+  },
+  {
+    "id": 48,
+    "title": "Product 48",
+    "price": 137.49,
+    "category": "Category 3",
+    "image": "https://picsum.photos/id/57/600/400",
+    "description": "This is a colorful demo description for Product 48. Great quality and value!"
+  },
+  {
+    "id": 49,
+    "title": "Product 49",
+    "price": 149.99,
+    "category": "Category 4",
+    "image": "https://picsum.photos/id/58/600/400",
+    "description": "This is a colorful demo description for Product 49. Great quality and value!"
+  },
+  {
+    "id": 50,
+    "title": "Product 50",
+    "price": 162.49,
+    "category": "Category 5",
+    "image": "https://picsum.photos/id/59/600/400",
+    "description": "This is a colorful demo description for Product 50. Great quality and value!"
+  }
+]

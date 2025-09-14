@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Colorful E‑Commerce Demo</title>
+  <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>Colorful Shop</h1>
+    <div class="header-right">
+      <button id="btn-cart">Cart (<span id="cart-count">0</span>)</button>
+      <button id="btn-login">Login / Register</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="products" class="grid"></section>
+  </main>
+
+  <!-- Product Modal -->
+  <div id="product-modal" class="modal hidden">
+    <div class="modal-content">
+      <button class="close" id="close-modal">×</button>
+      <img id="modal-img" src="" alt="" />
+      <h2 id="modal-title"></h2>
+      <p id="modal-desc"></p>
+      <p class="price" id="modal-price"></p>
+      <button id="add-to-cart">Add to cart</button>
+    </div>
+  </div>
+
+  <!-- Cart Drawer -->
+  <div id="cart-drawer" class="drawer hidden">
+    <h2>Your Cart</h2>
+    <div id="cart-items"></div>
+    <div class="cart-footer">
+      <div>Total: ₹ <span id="cart-total">0.00</span></div>
+      <button id="checkout">Checkout</button>
+      <button id="close-cart">Close</button>
+    </div>
+  </div>
+
+  <!-- Login/Register Modal -->
+  <div id="auth-modal" class="modal hidden">
+    <div class="modal-content small">
+      <button class="close" id="close-auth">×</button>
+      <h3 id="auth-title">Login</h3>
+      <form id="auth-form">
+        <input type="text" id="auth-name" placeholder="Full name (for register)" />
+        <input type="email" id="auth-email" placeholder="Email" required/>
+        <input type="password" id="auth-pass" placeholder="Password" required/>
+        <div class="auth-actions">
+          <button type="submit" id="auth-submit">Submit</button>
+          <button type="button" id="switch-auth">Switch to Register</button>
+        </div>
+        <div id="auth-msg" class="msg"></div>
+      </form>
+    </div>
+  </div>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>
