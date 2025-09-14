@@ -1,4 +1,4 @@
-Simple Colorful E-commerce Demo
+Simple E-commerce Demo
 =================================
 
 How to run:
